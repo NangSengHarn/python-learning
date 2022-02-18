@@ -12,3 +12,6 @@ print(evenNums)
 # comprehension way
 # evenNums=[num for num in nums if (num%2)==0]
 # print(evenNums);
+
+# lambda function
+#evenNums=list(filter(lambda num:(num%2)==0,nums))

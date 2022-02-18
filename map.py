@@ -12,3 +12,6 @@ print(nums);
 # comprehension way
 # nums=[num*2 for num in nums]
 # print(nums);
+
+#lambda function
+#nums=list(map(lambda num:num*2,nums))
