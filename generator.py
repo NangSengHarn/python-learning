@@ -16,4 +16,4 @@ with open('./text.txt') as file:
     for count in range(paraCount):
         with open('./generator.txt','a') as write_file:
             write_file.write(''.join(sentenceList)+'\n\n');
-        
+         
